@@ -1,0 +1,8 @@
+
+                       [main]    [experiment]
+                        |           |
+m1----m2----m3----m4----m5----e1----e2
+                          \
+                           l1
+                           |
+                          [less-salt,HEAD]
