@@ -8,6 +8,9 @@ transition: fade
 # Coding Café - March 2026
 ## Version Control: Working with Git
 
+The materials are taken from Coderefinery: 
+https://coderefinery.github.io/git-intro/
+
 ---
 src: ./motivation.md
 ---

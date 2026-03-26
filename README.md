@@ -4,23 +4,9 @@
 
 ---
 
-## Run locally
+These are the slides that are used as a reference in the Coding Cafe session that happened on March 2026.
 
-```bash
-npm install
-npm run dev
-```
+The slides are taken from Coderefinery workshop: https://coderefinery.github.io/git-intro/
+They are converted into slides by using sli.dev.
 
-Then visit http://localhost:3030
-
-## Build
-
-```bash
-npm run build
-```
-
-Output goes to `dist/`.
-
-## Deploy
-
-Slides are automatically deployed to GitHub Pages on every push to `main` via GitHub Actions.
+Coderefinery is highly recommended for workshop and training materials, and they make their materials open source.
